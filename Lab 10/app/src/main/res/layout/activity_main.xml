@@ -26,4 +26,12 @@
     android:text="Start Countdown"
     android:layout_marginTop="24dp"
     android:padding="12dp" />
+
+  <Button
+    android:id="@+id/pauseButton"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Pause Countdown"
+    android:layout_marginTop="12dp"
+    android:padding="12dp" />
 </LinearLayout>
